@@ -42,6 +42,10 @@ Grandes telas: <= 1200px
         width: 70%;
         height: 100%;
     }
+
+    div#formulario > p {
+    font-size: 1.2em;
+    }
 }
 
 /* --- */
@@ -67,6 +71,9 @@ Grandes telas: <= 1200px
         width: 50%;
         height: 100%;
     }
+    div#formulario > p {
+    font-size: 1.2em;
+    }
 }
 
 /* --- */
@@ -91,5 +98,9 @@ Grandes telas: <= 1200px
         float: right;
         width: 50%;
         height: 100%;
+    }
+
+    div#formulario > p {
+    font-size: 1.2em;
     }
 }
