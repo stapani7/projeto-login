@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* Estilos gerais */
+
+/* Paleta de cores */
+:root {
+    --brasil-amarelo: #FFCC29;   /* Amarelo da camisa */
+    --brasil-verde:   #009739;   /* Verde da gola e detalhes */
+    --brasil-azul:    #3E4095;   /* Azul do calção */
+    --brasil-branco:  #FFFFFF;   /* Branco dos detalhes */
+}
+
